@@ -1,0 +1,43 @@
+import { useState } from "react";
+
+function App() {
+  const [nome, setNome] = useState("Ana");
+  const [idade, setIdade] = useState("20");
+
+   return (
+  <>
+
+  <div>
+    <A nome={nome} idade={idade}/>;
+    <div>
+      <label>Nome</label>
+      <input value={nome} onChange={(e)=>setNome(e.target.value)} />
+    </div>
+    <div>
+      <label>Idade</label>
+      <input value={idade} onChange={(e)=>setIdade(e.target.value)} />
+    </div>
+    
+  </div>
+  </>
+  );
+}
+
+export default App;
+
+function A(props:Props){
+  return <B {...props} />;
+}
+
+function B(props:Props){
+  return <C nome={props.nome} idade={props.idade} />;
+}
+
+interface Props{
+  nome:string;
+  idade:string;
+}
+
+function C(props:Props){
+  return <div><div>Nome: {props.nome} Idade: {props.idade}</div></div>;
+}

@@ -1,0 +1,16 @@
+how to install TS in ur Pc:
+
+
+tsc -v pra ver a versão
+
+npm install -g typescript pra instalar no seu vs o TS globalmente
+npm i express dotenv para criar o package.json and package-lock.json
+npm init -y para iniciar o teu projeto (criar)
+
+
+npm i @types/express ts-node-dev -D 
+
+tsc --init pra criar o ts-config
+
+npx ts-node ./src rodar o projeto na pasta src
+npx ts-node-dev ./src 
