@@ -1,0 +1,456 @@
+{
+  "diaDeSorte": {
+    "mesDaSorte": "Julho",
+    "acumulado": false,
+    "concursoEspecial": false,
+    "dataApuracao": "29/12/2022",
+    "dataPorExtenso": "Quinta-feira, 29 de Dezembro de 2022",
+    "dezenas": [
+      "06",
+      "08",
+      "10",
+      "11",
+      "18",
+      "20",
+      "22"
+    ],
+    "numeroDoConcurso": 700,
+    "quantidadeGanhadores": 2,
+    "tipoJogo": "DIA_DE_SORTE",
+    "valorEstimadoProximoConcurso": 100000.0,
+    "valorPremio": 1331711.16
+  },
+  "duplasena": {
+    "dezenasSegundoSorteio": [
+      "04",
+      "08",
+      "17",
+      "30",
+      "43",
+      "47"
+    ],
+    "quantidadeGanhadoresSegundoSorteio": 0,
+    "totalGanhadores": 0,
+    "acumulado": true,
+    "concursoEspecial": false,
+    "dataApuracao": "29/12/2022",
+    "dataPorExtenso": "Quinta-feira, 29 de Dezembro de 2022",
+    "dezenas": [
+      "04",
+      "05",
+      "11",
+      "21",
+      "27",
+      "30"
+    ],
+    "numeroDoConcurso": 2462,
+    "quantidadeGanhadores": 0,
+    "tipoJogo": "DUPLA_SENA",
+    "valorEstimadoProximoConcurso": 1400000.0,
+    "valorPremio": 0.0
+  },
+  "federal": {
+    "localSorteio": "SAO PAULO, SP",
+    "premios": [
+      {
+        "bilhete": "072654",
+        "posicao": 1,
+        "valorPremio": 1350000.0
+      },
+      {
+        "bilhete": "018306",
+        "posicao": 2,
+        "valorPremio": 15500.0
+      },
+      {
+        "bilhete": "080593",
+        "posicao": 3,
+        "valorPremio": 14000.0
+      },
+      {
+        "bilhete": "089718",
+        "posicao": 4,
+        "valorPremio": 13000.0
+      },
+      {
+        "bilhete": "036951",
+        "posicao": 5,
+        "valorPremio": 12227.0
+      }
+    ],
+    "acumulado": false,
+    "concursoEspecial": false,
+    "dataApuracao": "24/12/2022",
+    "dataPorExtenso": "Sábado, 24 de Dezembro de 2022",
+    "dezenas": [
+      "072654",
+      "018306",
+      "080593",
+      "089718",
+      "036951"
+    ],
+    "numeroDoConcurso": 5726,
+    "quantidadeGanhadores": 1,
+    "tipoJogo": "LOTERIA_FEDERAL",
+    "valorEstimadoProximoConcurso": 0.0,
+    "valorPremio": 1350000.0
+  },
+  "loteca": {
+    "resultadoJogos": [
+      {
+        "sequencia": 1,
+        "equipeUm": "CAMAROES",
+        "equipeDois": "BRASIL",
+        "siglaUFEquipeUm": "",
+        "siglaUFEquipeDois": "",
+        "golsEquipeUm": 1,
+        "golsEquipeDois": 0,
+        "diaSemana": "Sexta-feira",
+        "icSorteioResultado": 0,
+        "siglaPaisUm": "CMR",
+        "siglaPaisDois": "BRA"
+      },
+      {
+        "sequencia": 2,
+        "equipeUm": "EQUADOR",
+        "equipeDois": "SENEGAL",
+        "siglaUFEquipeUm": "",
+        "siglaUFEquipeDois": "",
+        "golsEquipeUm": 1,
+        "golsEquipeDois": 2,
+        "diaSemana": "Terça-feira",
+        "icSorteioResultado": 0,
+        "siglaPaisUm": "ECU",
+        "siglaPaisDois": "SEN"
+      },
+      {
+        "sequencia": 3,
+        "equipeUm": "HOLANDA",
+        "equipeDois": "CATAR",
+        "siglaUFEquipeUm": "",
+        "siglaUFEquipeDois": "",
+        "golsEquipeUm": 2,
+        "golsEquipeDois": 0,
+        "diaSemana": "Terça-feira",
+        "icSorteioResultado": 0,
+        "siglaPaisUm": "NLD",
+        "siglaPaisDois": "QAT"
+      },
+      {
+        "sequencia": 4,
+        "equipeUm": "IRA",
+        "equipeDois": "ESTADOS UNIDOS",
+        "siglaUFEquipeUm": "",
+        "siglaUFEquipeDois": "",
+        "golsEquipeUm": 0,
+        "golsEquipeDois": 1,
+        "diaSemana": "Terça-feira",
+        "icSorteioResultado": 0,
+        "siglaPaisUm": "IRN",
+        "siglaPaisDois": "USA"
+      },
+      {
+        "sequencia": 5,
+        "equipeUm": "PAIS DE GALES",
+        "equipeDois": "INGLATERRA",
+        "siglaUFEquipeUm": "",
+        "siglaUFEquipeDois": "",
+        "golsEquipeUm": 0,
+        "golsEquipeDois": 3,
+        "diaSemana": "Terça-feira",
+        "icSorteioResultado": 0,
+        "siglaPaisUm": "",
+        "siglaPaisDois": "ING"
+      },
+      {
+        "sequencia": 6,
+        "equipeUm": "TUNISIA",
+        "equipeDois": "FRANCA",
+        "siglaUFEquipeUm": "",
+        "siglaUFEquipeDois": "",
+        "golsEquipeUm": 1,
+        "golsEquipeDois": 0,
+        "diaSemana": "Quarta-feira",
+        "icSorteioResultado": 0,
+        "siglaPaisUm": "TUN",
+        "siglaPaisDois": "FRA"
+      },
+      {
+        "sequencia": 7,
+        "equipeUm": "POLONIA",
+        "equipeDois": "ARGENTINA",
+        "siglaUFEquipeUm": "",
+        "siglaUFEquipeDois": "",
+        "golsEquipeUm": 0,
+        "golsEquipeDois": 2,
+        "diaSemana": "Quarta-feira",
+        "icSorteioResultado": 0,
+        "siglaPaisUm": "POL",
+        "siglaPaisDois": "ARG"
+      },
+      {
+        "sequencia": 8,
+        "equipeUm": "CANADA",
+        "equipeDois": "MARROCOS",
+        "siglaUFEquipeUm": "",
+        "siglaUFEquipeDois": "",
+        "golsEquipeUm": 1,
+        "golsEquipeDois": 2,
+        "diaSemana": "Quinta-feira",
+        "icSorteioResultado": 0,
+        "siglaPaisUm": "CAN",
+        "siglaPaisDois": "MAR"
+      },
+      {
+        "sequencia": 9,
+        "equipeUm": "CROACIA",
+        "equipeDois": "BELGICA",
+        "siglaUFEquipeUm": "",
+        "siglaUFEquipeDois": "",
+        "golsEquipeUm": 0,
+        "golsEquipeDois": 0,
+        "diaSemana": "Quinta-feira",
+        "icSorteioResultado": 0,
+        "siglaPaisUm": "HRV",
+        "siglaPaisDois": "BEL"
+      },
+      {
+        "sequencia": 10,
+        "equipeUm": "COSTA RICA",
+        "equipeDois": "ALEMANHA",
+        "siglaUFEquipeUm": "",
+        "siglaUFEquipeDois": "",
+        "golsEquipeUm": 2,
+        "golsEquipeDois": 4,
+        "diaSemana": "Quinta-feira",
+        "icSorteioResultado": 0,
+        "siglaPaisUm": "CRI",
+        "siglaPaisDois": "DEU"
+      },
+      {
+        "sequencia": 11,
+        "equipeUm": "JAPAO",
+        "equipeDois": "ESPANHA",
+        "siglaUFEquipeUm": "",
+        "siglaUFEquipeDois": "",
+        "golsEquipeUm": 2,
+        "golsEquipeDois": 1,
+        "diaSemana": "Quinta-feira",
+        "icSorteioResultado": 0,
+        "siglaPaisUm": "JPN",
+        "siglaPaisDois": "ESP"
+      },
+      {
+        "sequencia": 12,
+        "equipeUm": "GANA",
+        "equipeDois": "URUGUAI",
+        "siglaUFEquipeUm": "",
+        "siglaUFEquipeDois": "",
+        "golsEquipeUm": 0,
+        "golsEquipeDois": 2,
+        "diaSemana": "Sexta-feira",
+        "icSorteioResultado": 0,
+        "siglaPaisUm": "GHA",
+        "siglaPaisDois": "URY"
+      },
+      {
+        "sequencia": 13,
+        "equipeUm": "COREIA DO SUL",
+        "equipeDois": "PORTUGAL",
+        "siglaUFEquipeUm": "",
+        "siglaUFEquipeDois": "",
+        "golsEquipeUm": 2,
+        "golsEquipeDois": 1,
+        "diaSemana": "Sexta-feira",
+        "icSorteioResultado": 0,
+        "siglaPaisUm": "COR",
+        "siglaPaisDois": "PRT"
+      },
+      {
+        "sequencia": 14,
+        "equipeUm": "SERVIA/SER",
+        "equipeDois": "SUICA",
+        "siglaUFEquipeUm": "",
+        "siglaUFEquipeDois": "",
+        "golsEquipeUm": 2,
+        "golsEquipeDois": 3,
+        "diaSemana": "Sexta-feira",
+        "icSorteioResultado": 0,
+        "siglaPaisUm": "",
+        "siglaPaisDois": "CHE"
+      }
+    ],
+    "acumulado": true,
+    "concursoEspecial": false,
+    "dataApuracao": "02/12/2022",
+    "dataPorExtenso": "Sexta-feira, 02 de Dezembro de 2022",
+    "dezenas": null,
+    "numeroDoConcurso": 1028,
+    "quantidadeGanhadores": 0,
+    "tipoJogo": "LOTECA",
+    "valorEstimadoProximoConcurso": 1000000.0,
+    "valorPremio": 0.0
+  },
+  "lotofacil": {
+    "acumulado": false,
+    "concursoEspecial": false,
+    "dataApuracao": "30/12/2022",
+    "dataPorExtenso": "Sexta-feira, 30 de Dezembro de 2022",
+    "dezenas": [
+      "01",
+      "02",
+      "04",
+      "06",
+      "07",
+      "10",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "21",
+      "23",
+      "25"
+    ],
+    "numeroDoConcurso": 2702,
+    "quantidadeGanhadores": 3,
+    "tipoJogo": "LOTOFACIL",
+    "valorEstimadoProximoConcurso": 1000000.0,
+    "valorPremio": 664920.53
+  },
+  "lotomania": {
+    "acumulado": true,
+    "concursoEspecial": false,
+    "dataApuracao": "30/12/2022",
+    "dataPorExtenso": "Sexta-feira, 30 de Dezembro de 2022",
+    "dezenas": [
+      "00",
+      "01",
+      "02",
+      "07",
+      "09",
+      "15",
+      "19",
+      "29",
+      "39",
+      "40",
+      "57",
+      "61",
+      "66",
+      "68",
+      "82",
+      "88",
+      "89",
+      "93",
+      "95",
+      "96"
+    ],
+    "numeroDoConcurso": 2411,
+    "quantidadeGanhadores": 0,
+    "tipoJogo": "LOTOMANIA",
+    "valorEstimadoProximoConcurso": 1200000.0,
+    "valorPremio": 0.0
+  },
+  "maisMilionaria": {
+    "trevosSorteados": [
+      "3",
+      "5"
+    ],
+    "acumulado": true,
+    "concursoEspecial": false,
+    "dataApuracao": "24/12/2022",
+    "dataPorExtenso": "Sábado, 24 de Dezembro de 2022",
+    "dezenas": [
+      "14",
+      "15",
+      "29",
+      "32",
+      "41",
+      "50"
+    ],
+    "numeroDoConcurso": 31,
+    "quantidadeGanhadores": 0,
+    "tipoJogo": "MAIS_MILIONARIA",
+    "valorEstimadoProximoConcurso": 22000000.0,
+    "valorPremio": 0.0
+  },
+  "megasena": {
+    "acumulado": true,
+    "concursoEspecial": false,
+    "dataApuracao": "17/12/2022",
+    "dataPorExtenso": "Sábado, 17 de Dezembro de 2022",
+    "dezenas": [
+      "01",
+      "06",
+      "10",
+      "30",
+      "33",
+      "35"
+    ],
+    "numeroDoConcurso": 2549,
+    "quantidadeGanhadores": 0,
+    "tipoJogo": "MEGA_SENA",
+    "valorEstimadoProximoConcurso": 500000000.0,
+    "valorPremio": 0.0
+  },
+  "quina": {
+    "acumulado": true,
+    "concursoEspecial": false,
+    "dataApuracao": "30/12/2022",
+    "dataPorExtenso": "Sexta-feira, 30 de Dezembro de 2022",
+    "dezenas": [
+      "32",
+      "41",
+      "50",
+      "61",
+      "64"
+    ],
+    "numeroDoConcurso": 6038,
+    "quantidadeGanhadores": 0,
+    "tipoJogo": "QUINA",
+    "valorEstimadoProximoConcurso": 9800000.0,
+    "valorPremio": 0.0
+  },
+  "superSete": {
+    "acumulado": true,
+    "concursoEspecial": false,
+    "dataApuracao": "30/12/2022",
+    "dataPorExtenso": "Sexta-feira, 30 de Dezembro de 2022",
+    "dezenas": [
+      "4",
+      "3",
+      "0",
+      "5",
+      "9",
+      "9",
+      "1"
+    ],
+    "numeroDoConcurso": 339,
+    "quantidadeGanhadores": 0,
+    "tipoJogo": "SUPER_SETE",
+    "valorEstimadoProximoConcurso": 8000000.0,
+    "valorPremio": 0.0
+  },
+  "timemania": {
+    "timeDoCoracao": "GOIAS            /GO",
+    "acumulado": true,
+    "concursoEspecial": false,
+    "dataApuracao": "29/12/2022",
+    "dataPorExtenso": "Quinta-feira, 29 de Dezembro de 2022",
+    "dezenas": [
+      "21",
+      "23",
+      "27",
+      "32",
+      "40",
+      "54",
+      "68"
+    ],
+    "numeroDoConcurso": 1879,
+    "quantidadeGanhadores": 0,
+    "tipoJogo": "TIMEMANIA",
+    "valorEstimadoProximoConcurso": 17700000.0,
+    "valorPremio": 0.0
+  }
+}

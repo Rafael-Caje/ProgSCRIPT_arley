@@ -1,0 +1,82 @@
+body {
+    font-family: "Roboto";
+  }
+  .quina {
+    margin: 20px;
+    padding-bottom: 70px;
+}
+  #q_trevo {
+    width: 40px;
+    height: 40px;
+    top: 5vh;
+    position: relative;
+  }
+  .q_tipo {
+    color: #260085;
+    width: 10px;
+    left: 50px;
+    font-size: 32px;
+    position: relative;
+    font-weight: bold;
+ }
+  .q_dezena {
+    color: white;
+    display: grid;
+    align-items: center;
+    width: 10px;
+    height: 1vh;
+    grid-column-gap: 5px;
+    grid-template-columns: repeat(5, auto);
+    position: absolute;
+    top: 70px;
+    left: 500px;
+    font-size: 24px;
+  }
+
+  .q_circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    border: 3px solid #260085;
+    background-color: #260085;
+  }
+  .q_estimativa {
+    color: #4c556c;
+    width: 300px;
+    left: 50px;
+    top: 20px;
+    word-wrap: break-word;
+    position: relative;
+  }
+
+  .q_valor {
+    color: #260085;
+    width: 10px;
+    height: 5vh;
+    top: 35px;
+    left: 50px;
+    font-size: 22px;
+    position: relative;
+    font-weight: bold;
+  }
+
+  .q_ganha {
+    color: #0066b3;
+    font-size: 30px;
+    top: 150px;
+    left: 500px;
+    margin: 10px;
+    position: absolute;
+    font-weight: bold;
+  }
+  .q_data {
+    color: #4c556c;
+    top: 200px;
+    left: 500px;
+    margin: 10px;
+    position: absolute;
+  }

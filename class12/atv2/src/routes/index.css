@@ -1,0 +1,59 @@
+nav ul {
+    display: flex;
+    justify-content: flex-start;
+    list-style-type: none;
+    padding-right: 90%;
+    font-size: 20px;
+    font-weight: bold;
+    height: 0px;
+}
+
+nav ul li {
+    margin-right: 6mm;
+}
+nav ul li:before {
+    display: none;
+  }
+
+nav ul li #l_guia {
+    color: #930089;
+    text-decoration: none;
+}
+
+nav ul li #m_guia {
+    color: #209869;
+    text-decoration: none;
+}
+
+nav ul li #q_guia {
+    color: #260085;
+    text-decoration: none;
+}
+
+ 
+#l_guia.active {
+    pointer-events: none;
+    color: #aaa;
+}
+
+#m_guia.active {
+    pointer-events: none;
+    color: #aaa;
+}
+
+#q_guia.active {
+    pointer-events: none;
+    color: #aaa;
+}
+
+.LoadingPage {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}

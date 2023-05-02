@@ -1,0 +1,104 @@
+body {
+    font-family: "Roboto";
+  }
+
+  .container {
+    display: flex;
+    width: 100px;
+  }
+  
+  .lotofacil {
+    margin: 20px;
+    padding-bottom: 90px;
+  }
+
+  #l_trevo {
+    width: 40px;
+    height: 40px;
+    top: 5vh;
+    position: relative;
+  }
+
+  .l_tipo {
+    flex: 1;
+    color: #930089;
+    width: 10px;
+    left: 50px;
+    font-size: 32px;
+    position: relative;
+    font-weight: bold;
+    
+ }
+  .l_dezena {
+    flex: 1;
+    color: #930089;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    width: 10px;
+    height: 5vh;
+    grid-column-gap: 10px;
+    top: -10px;
+    left: 410px;
+    font-size: 28px;
+    position: relative;
+  }
+
+  .l_dezena::before {
+    content: "";
+    grid-row: 2 / span 1;
+    grid-column: 1 / span 5;
+    border-bottom: 1px solid #ddd;
+  }
+
+  .l_dezena::after {
+    content: "";
+    grid-row: 4 / span 1;
+    grid-column: 1 / span 5;
+    border-bottom: 1px solid #ddd;
+  }
+
+  .l_matriz {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+  }
+
+  .l_estimativa {
+    color: #4c556c;
+    width: 300px;
+    left: 50px;
+    top: 15px;
+    word-wrap: break-word;
+    position: relative;
+  }
+
+  .l_valor {
+    color: #930089;
+    width: 10px;
+    height: 5vh;
+    top: -6px;
+    left: 50px;
+    font-size: 22px;
+    position: relative;
+    font-weight: bold;
+  }
+
+  .l_ganha {
+    color: #0066b3;
+    font-size: 30px;
+    left: 460px;
+    top: 130px;
+    position: relative;
+    font-weight: bold;
+  }
+
+  .l_data {
+    color: #4c556c;
+    left: 460px;
+    top: 100px;
+    position: relative;
+  }
+

@@ -1,0 +1,11 @@
+A pagina fica inteira no document
+Escrevemos html mas internamente é sempre javascript 
+
+Um contexto é feito pra propagar na arvore algum valor;
+nesse exercicio passamos e logado e nao logado
+se for false acessa ab e se for true acessa cd
+
+
+
+
+

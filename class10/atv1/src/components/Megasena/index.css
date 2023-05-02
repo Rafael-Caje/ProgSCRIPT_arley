@@ -1,0 +1,73 @@
+body {
+    font-family: "Roboto";
+  }
+  .megasena {
+    margin: 10px;
+
+  }
+  #m_trevo {
+    width: 40px;
+    height: 40px;
+    top: 5vh;
+    position: relative;
+  }
+  .m_tipo {
+    color: #209869;
+    width: 10px;
+    height: 10vh;
+    left: 50px;
+    font-size: 28px;
+    position: relative;
+    white-space: nowrap;
+ }
+  .m_dezena {
+    color: white;
+    display: grid;
+    align-items: center;
+    width: 10px;
+    height: 1vh;
+    grid-column-gap: 5px;
+    grid-template-columns: repeat(6, auto);
+    position: absolute;
+    top: 50px;
+    left: 500px;
+    font-size: 24px;
+  }
+
+  .m_circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    border: 3px solid #209869;
+    background-color: #209869;
+  }
+  .m_estimativa {
+    color: #4c556c;
+  }
+  .m_ganha {
+    color: #0066b3;
+    font-size: 30px;
+    top: 130px;
+    left: 500px;
+    margin: 10px;
+    position: absolute;
+  }
+  .m_data {
+    color: #4c556c;
+    top: 170px;
+    left: 500px;
+    margin: 10px;
+    position: absolute;
+  }
+  .m_valor {
+    color: #209869;
+    width: 10px;
+    height: 10vh;
+    left: 50px;
+    font-size: 22px;
+    position: relative;
+  }
